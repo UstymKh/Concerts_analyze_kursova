@@ -1,0 +1,17 @@
+certifi==2019.6.16
+chardet==3.0.4
+idna==2.8
+MouseInfo==0.0.4
+Pillow==6.1.0
+PyAutoGUI==0.9.47
+pygame==1.9.6
+PyGetWindow==0.0.7
+PyMsgBox==1.0.7
+pyperclip==1.7.0
+PyRect==0.1.4
+PyScreeze==0.1.22
+python3-xlib==0.15
+PyTweening==1.0.3
+requests==2.22.0
+urllib3==1.25.3
+youtube-dl==2019.9.1
